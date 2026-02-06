@@ -3,3 +3,11 @@
 ```
 git clone git@github.com:Dksoren14/Self-Driving-Lab-ROB6.git
 ```
+
+2. Setup workspace:
+```
+cd lab_boys
+colcon build
+```
+
+3. 
